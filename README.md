@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi there 👋
+
+I'm a developer and system administrator focused on automation tools, backend workflows, and web platforms. 
+
+- 🛠️ Building media utilities and custom content scrapers
+- 🌐 Managing platforms like [freensfwtube.com](https://freensfwtube.com)
+- 🚀 Exploring Python, WordPress, and server optimization
+
+Feel free to check out my public repositories for open-source scripts and utilities!
 
 <!--
 **ribot24/ribot24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
